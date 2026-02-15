@@ -1,0 +1,65 @@
+ticker,name,category
+NVDA,NVIDIA Corporation,top-tier
+AMD,Advanced Micro Devices,top-tier
+INTC,Intel Corporation,top-tier
+QCOM,Qualcomm Incorporated,top-tier
+AVGO,Broadcom Inc.,top-tier
+TXN,Texas Instruments Incorporated,top-tier
+MRVL,Marvell Technology Inc.,top-tier
+MU,Micron Technology Inc.,top-tier
+ASML,ASML Holding N.V.,top-tier
+TSM,Taiwan Semiconductor Manufacturing,top-tier
+LRCX,Lam Research Corporation,top-tier
+KLAC,KLA Corporation,top-tier
+AMAT,Applied Materials Inc.,top-tier
+ON,ON Semiconductor Corporation,top-tier
+NXPI,NXP Semiconductors N.V.,top-tier
+ADI,Analog Devices Inc.,top-tier
+MCHP,Microchip Technology Incorporated,top-tier
+SWKS,Skyworks Solutions Inc.,top-tier
+QRVO,Qorvo Inc.,top-tier
+ARM,Arm Holdings plc,mid-cap
+GFS,GlobalFoundries Inc.,mid-cap
+STM,STMicroelectronics N.V.,mid-cap
+UMC,United Microelectronics Corporation,mid-cap
+ASX,ASE Technology Holding Co.,mid-cap
+TSEM,Tower Semiconductor Ltd.,mid-cap
+AMBA,Ambarella Inc.,mid-cap
+SYNA,Synaptics Incorporated,mid-cap
+CRDO,Credo Technology Group Holding Ltd.,mid-cap
+PI,Impinj Inc.,mid-cap
+VSH,Vishay Intertechnology Inc.,mid-cap
+LFUS,Littelfuse Inc.,mid-cap
+SLAB,Silicon Laboratories Inc.,lesser-known
+DIOD,Diodes Incorporated,lesser-known
+POWI,Power Integrations Inc.,lesser-known
+INDI,indie Semiconductor Inc.,lesser-known
+WOLF,Wolfspeed Inc.,lesser-known
+ACLS,Axcelis Technologies Inc.,lesser-known
+ALGM,Allegro MicroSystems Inc.,lesser-known
+CRUS,Cirrus Logic Inc.,lesser-known
+LSCC,Lattice Semiconductor Corporation,lesser-known
+MPWR,Monolithic Power Systems Inc.,lesser-known
+SITM,SiTime Corporation,lesser-known
+SMTC,Semtech Corporation,lesser-known
+RMBS,Rambus Inc.,lesser-known
+FORM,FormFactor Inc.,lesser-known
+AMKR,Amkor Technology Inc.,lesser-known
+CEVA,CEVA Inc.,lesser-known
+MTSI,MACOM Technology Solutions Holdings Inc.,lesser-known
+SIMO,Silicon Motion Technology Corporation,lesser-known
+HIMX,Himax Technologies Inc.,small-cap
+MXL,MaxLinear Inc.,small-cap
+NVTS,Navitas Semiconductor Corporation,small-cap
+AOSL,Alpha and Omega Semiconductor Ltd.,small-cap
+AXTI,AXT Inc.,small-cap
+AEHR,Aehr Test Systems,small-cap
+COHU,Cohu Inc.,small-cap
+PLAB,Photronics Inc.,small-cap
+ACMR,ACM Research Inc.,small-cap
+ENTG,Entegris Inc.,equipment
+ONTO,Onto Innovation Inc.,equipment
+MKSI,MKS Instruments Inc.,equipment
+ICHR,Ichor Holdings Ltd.,equipment
+KLIC,Kulicke and Soffa Industries Inc.,equipment
+CAMT,Camtek Ltd.,equipment

@@ -77,9 +77,12 @@ Three companies report in non-USD currencies and are converted using approximate
 
 ## How to Run
 
-**Prerequisites:** Python 3, pandas, matplotlib, seaborn, numpy, yfinance
+**Prerequisites:** Python 3
 
 ```bash
+# Install dependencies
+pip install -r requirements.txt
+
 # Collect financial data (fetches from Yahoo Finance)
 python3 collect_financials.py
 

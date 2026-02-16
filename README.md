@@ -58,12 +58,12 @@ Generated in [`charts/`](charts/):
 
 | Chart | Description |
 |-------|-------------|
-| ![](charts/revenue_top20.png) | **Top 20 by Revenue** — Bar chart color-coded by category, values in billions USD |
-| ![](charts/margins_by_category.png) | **Margins by Category** — Box plots comparing gross, operating, and net margins across categories |
-| ![](charts/revenue_growth_ranking.png) | **Revenue Growth Ranking** — All 64 companies sorted by YoY growth (green = positive, red = negative) |
-| ![](charts/rd_vs_margin.png) | **R&D vs Operating Margin** — Bubble scatter (size = revenue), showing innovation vs profitability tradeoff |
-| ![](charts/profitability_heatmap.png) | **Profitability Heatmap** — Top 30 companies across 4 margin metrics (red-yellow-green scale) |
-| ![](charts/financial_health.png) | **Financial Health** — Current Ratio vs Debt-to-Equity scatter with healthy-zone reference lines |
+| <img src="charts/revenue_top20.png" width="300"> | **Top 20 by Revenue** — Bar chart color-coded by category, values in billions USD |
+| <img src="charts/margins_by_category.png" width="300"> | **Margins by Category** — Box plots comparing gross, operating, and net margins across categories |
+| <img src="charts/revenue_growth_ranking.png" width="300"> | **Revenue Growth Ranking** — All 64 companies sorted by YoY growth (green = positive, red = negative) |
+| <img src="charts/rd_vs_margin.png" width="300"> | **R&D vs Operating Margin** — Bubble scatter (size = revenue), showing innovation vs profitability tradeoff |
+| <img src="charts/profitability_heatmap.png" width="300"> | **Profitability Heatmap** — Top 30 companies across 4 margin metrics (red-yellow-green scale) |
+| <img src="charts/financial_health.png" width="300"> | **Financial Health** — Current Ratio vs Debt-to-Equity scatter with healthy-zone reference lines |
 
 ## Currency Normalization
 
